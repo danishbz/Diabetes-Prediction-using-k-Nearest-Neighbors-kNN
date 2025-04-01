@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Development and environment files
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environments
+env/
+venv/
+ENV/
+
+# IDE or Editor specific
+.vscode/
+.idea/
+*.swp
+
+# MacOS
+.DS_Store
+
+# Miscellaneous
+*.log
+*.csv
+
+# Byte compiled or compiled Python files
+*.pyc
+*.pyo
+
+# Libraries and other dependencies
+*.egg-info/
+
+# Matplotlib and other plots
+*.png
+*.pdf
+*.svg
